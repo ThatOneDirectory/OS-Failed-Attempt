@@ -7,7 +7,7 @@ PLEASE NOTE:
 0) I added boot_sect.asm and kernel.c for analytical purposes, in the actual code the files were replaced bt their .bin counterparts
 1) Forgot to add this at Stack Overflow, the issue also may be the way the files boot_sect.asm and kernel.c were converted into .bin, which is why the conversion commands were added.
 2) I DID NOT WRITE THE FILES WITHIN. ALL CREDIT GOES TO THE AUTHOR OF THE PDF ATTACHED. (in fact most of the comments he wrote are still in there.) I just learned the stuff and wanted to try it out, and wrote the code as accurately as i could.
-3) The folder OS Attempt includes the folder OS_RUN, which includesthe  Bochs Configuration file and the disk image.
+3) The folder OS Attempt includes the folder OS1_RUN, which includesthe  Bochs Configuration file and the disk image.
 
 In here is the code, (It doesn't work) along with:
 
