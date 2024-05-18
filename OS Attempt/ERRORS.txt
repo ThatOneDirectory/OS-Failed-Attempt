@@ -1,0 +1,17 @@
+//Note: I used Bochs 2.6 on Windows 7 Starter.
+//All seems to work well, until this block of code appears at the 'Bochs for Windows - Console'
+
+$
+00014214355i[FDD  ] attempt to read/write sector 1 with media not present
+00022196820i[FDD  ] controller reset in software
+00022250690p[BIOS ] >>PANIC<< No bootable device.
+00022251997i[CPU0 ] WARNING: HLT instruction with IF=0!
+00050400001e[WGUI ] Sim client size(0, 0) != stretched size(720, 400)!
+
+//This is what I get in 'Bochs for Windows - Display' again all works well until
+
+Booting from Floppy...
+Boot failed: could not read the boot disk
+
+FATAL: No bootable device.
+
