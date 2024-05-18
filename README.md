@@ -1,6 +1,7 @@
 # OS-Failed-Attempt
 You're probably here from Stack Overflow to take a look at the code.
-If not, please help: 
+If not, please help: https://stackoverflow.com/questions/78500501/the-emulator-cannot-access-sector-1-of-my-operating-system-can-anyone-help-trou
+
 PLEASE NOTE: 
 1) I DID NOT WRITE THE FILES WITHIN. 
 2) ALL CREDIT GOES TO THE AUTHOR OF THE PDF ATTACHED. (in fact most of the comments he wrote are still in there.) I just learned the stuff and wanted to try it out, and wrote the code as accurately as i could.
